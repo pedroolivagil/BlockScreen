@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">BlockScreen</string>
+    <string name="device_admin_not_enabled">Screen Off application was not marked as Device Administrator. Please check Security settings.</string>
+    <string name="device_admin_description">Turns the screen off and locks your device with a single touch.</string>
+    <string name="admin_receiver_status_enabled">Screen Off was added as Device Administrator</string>
+    <string name="admin_receiver_status_disabled">Screen Off was removed from Device Administrators list</string>
+    <string name="main_subtitle">Thanks for installing BlockScreen!</string>
+    <string name="main_description">You must grant special permissions for the operation of your device. Even if you simply try to turn off the screen and block your terminal, you need those permissions.\n\nTo add them, you must go to the following configuration:\n- You must first go to: Settings -> Security -> Device Administrators.\n- You must enable the application.\n\nWhen you want to accept, you will be notified of the use that this application will make with your terminal, so if you do not agree, you can cancel and leave it for later or uninstall the application.\n\nOnce you have completed all the steps, the application is ready for use.\n\n\nThanks.</string>
+    <string name="exit_app">Go to Settings</string>
+</resources>

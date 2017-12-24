@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="device_admin_not_enabled">La aplicación de pantalla no se marcó como administrador del dispositivo. Por favor, compruebe la configuración de seguridad.</string>
+    <string name="device_admin_description">Apaga la pantalla y bloquea su dispositivo con un solo toque.</string>
+    <string name="admin_receiver_status_enabled">Se agregó Screen Off como Administrador de dispositivos</string>
+    <string name="admin_receiver_status_disabled">La pantalla apagada fue eliminada de la lista de administradores del dispositivo</string>
+    <string name="main_subtitle">Gracias por instalar BlockScreen!</string>
+    <string name="main_description">Debe conceder permisos especiales para el manejo de su dispositivo. Aunque simplemente se trate de apagar la pantalla y bloquear tu terminal, se necesitan dichos permisos.\n\nPara añadirlos, debe ir a la siguiente configuración:\n- Primero debe ir a: Ajustes -> Seguridad -> Administradores de dispositivos.\n- Debe habilitar la aplicación.\n\nCuando quiera aceptar, se le notificará del uso que hará esta aplicación con su terminal, por lo que si no está de acuerdo, podrá cancelar y dejarlo para más tarde o desinstalar la aplicación.\n\nUna vez haya concluído todos los pasos, la aplicación está lista para su uso.\n\n\nGracias.</string>
+    <string name="exit_app">Ir a Ajustes</string>
+</resources>
